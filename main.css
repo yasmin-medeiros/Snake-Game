@@ -1,0 +1,11 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    background-image: 
+    repeating-linear-gradient(to bottom, black 0, black 20px, transparent 20px, transparent 45px),
+    repeating-linear-gradient(to right, #fff 0, #fff 25px, black 20px, black 40px);
+}
