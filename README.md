@@ -2,7 +2,7 @@
 
 Criação do tão famoso "jogo da cobrinha", com o acréscimo do CSS para desenvolvimento do fundo quadriculado.
 
-## ◻ Execução do projeto: 
+## ◽ Execução do projeto: 
 - Após a criação do código é necessário que o usuário aperte alguma das setas ◀🔼🔽▶ do seu teclado 👩🏻‍💻 para iniciar-se o jogo.
 
 <br>
